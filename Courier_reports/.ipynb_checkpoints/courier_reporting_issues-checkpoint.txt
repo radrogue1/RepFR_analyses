@@ -1,0 +1,17 @@
+Issues with Reporting
+
+
+
+R1503E: ValueError: len(channels) (155) must be the same length as the second data dimension (139)
+
+R1504E: ValueError: len(channels) (182) must be the same length as the second data dimension (166)
+
+R1513D: ValueError: len(channels) (136) must be the same length as the second data dimension (120)
+
+R1532T: ValueError: len(channels) (138) must be the same length as the second data dimension (137)
+
+R1533J: ValueError: len(channels) (154) must be the same length as the second data dimension (153)
+
+R1535E: KeyError: "None of [Index(['contact_1', 'contact_2', 'label'], dtype='object')] are in the [columns]"
+
+R1549E: no EEG data at all displayed or CRP data
